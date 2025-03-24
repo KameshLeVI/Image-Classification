@@ -10,7 +10,8 @@ The goal of this project is to develop a Convolutional Neural Network (CNN) for 
 
 ## Neural Network Model
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/cc5d1b0d-d8f9-480e-a85d-8f3b21b12bf0)
+
 
 ## DESIGN STEPS
 
